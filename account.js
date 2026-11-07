@@ -6,12 +6,12 @@ var website_name = "TGR RABBI TopUp";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/rabbihassan50k";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://chat.whatsapp.com/DpdXBFG1VSG5ltcTOl5Ae9?s=cl&p=a&iam=2";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
