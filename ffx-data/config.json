@@ -5,7 +5,9 @@
     "banner-1794137520191-5676.jpg"
   ],
   "quick": null,
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794233461925.png"
+  },
   "prod": null,
   "texts": {
     "siteName": "TGR RABBI TOPUP"
