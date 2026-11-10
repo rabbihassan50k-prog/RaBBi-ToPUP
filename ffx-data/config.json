@@ -109,14 +109,44 @@
           "price": 100
         },
         {
-          "label": "6000 FF LIKE- 30 দিন এ পাবেন",
-          "name": "6000 FF LIKE",
-          "price": 900
+          "label": "2000 FF LIKE - 10 দিন এ পাবেন",
+          "name": "2000 FF LIKE",
+          "price": 200
         },
         {
-          "label": "12000 FF LIKE- 60 দিন এ পাবেন",
+          "label": "3000 FF LIKE - 15 দিন এ পাবেন",
+          "name": "3000 FF LIKE",
+          "price": 300
+        },
+        {
+          "label": "4000 FF LIKE - 20 দিন এ পাবেন",
+          "name": "4000 FF LIKE",
+          "price": 400
+        },
+        {
+          "label": "5000 FF LIKE -25 দিন এ পাবেন",
+          "name": "5000 FF LIKE",
+          "price": 500
+        },
+        {
+          "label": "6000 FF LIKE - 30 দিন এ পাবেন",
+          "name": "6000 FF LIKE",
+          "price": 600
+        },
+        {
+          "label": "12000 FF LIKE - 60 দিন এ পাবেন",
           "name": "12000 FF LIKE",
-          "price": 1800
+          "price": 1200
+        },
+        {
+          "label": "24000 FF LIKE - 120 দিন এ পাবেন",
+          "name": "24000 FF LIKE",
+          "price": 2400
+        },
+        {
+          "label": "48,000 FF LIKE - 240 দিন এ পাবেন",
+          "name": "48,000 FF LIKE",
+          "price": 4800
         }
       ]
     }
