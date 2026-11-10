@@ -8,10 +8,95 @@
   ],
   "quick": null,
   "images": {
-    "pop": "img-pop-1794239247778.jpg",
-    "uc": "img-uc-1794239752315.jpg"
+    "uc": "img-uc-1794239752315.jpg",
+    "pop": "img-pop-1794239247778.jpg"
   },
-  "prod": null,
+  "prod": {
+    "uid": {
+      "packages": [
+        {
+          "label": "WEEKLY🎭",
+          "name": "WEEKLY🎭",
+          "price": 156
+        },
+        {
+          "label": "MONTHLY🔥",
+          "name": "MONTHLY🔥",
+          "price": 770
+        },
+        {
+          "label": "25 Diamond",
+          "name": "25 Diamond",
+          "price": 21
+        },
+        {
+          "label": "50 Diamond",
+          "name": "50 Diamond",
+          "price": 35
+        },
+        {
+          "label": "115 Diamond",
+          "name": "115 Diamond",
+          "price": 79
+        },
+        {
+          "label": "240 Diamond",
+          "name": "240 Diamond",
+          "price": 158
+        },
+        {
+          "label": "355 Diamond",
+          "name": "355 Diamond",
+          "price": 238
+        },
+        {
+          "label": "505 Diamond",
+          "name": "505 Diamond",
+          "price": 337
+        },
+        {
+          "label": "610 Diamond",
+          "name": "610 Diamond",
+          "price": 400
+        },
+        {
+          "label": "850 Diamond",
+          "name": "850 Diamond",
+          "price": 559
+        },
+        {
+          "label": "1090 Diamond",
+          "name": "1090 Diamond",
+          "price": 717
+        },
+        {
+          "label": "1240 Diamond",
+          "name": "1240 Diamond",
+          "price": 796
+        },
+        {
+          "label": "2530 Diamond",
+          "name": "2530 Diamond",
+          "price": 1592
+        },
+        {
+          "label": "5060 Diamond",
+          "name": "5060 Diamond",
+          "price": 3182
+        },
+        {
+          "label": "7590 Diamond",
+          "name": "7590 Diamond",
+          "price": 4800
+        },
+        {
+          "label": "10120 Diamond",
+          "name": "10120 Diamond",
+          "price": 6400
+        }
+      ]
+    }
+  },
   "texts": {
     "siteName": "TGR RABBI TOPUP"
   }
