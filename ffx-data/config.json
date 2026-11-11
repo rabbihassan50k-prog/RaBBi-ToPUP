@@ -12,6 +12,60 @@
     "pop": "img-pop-1794239247778.jpg"
   },
   "prod": {
+    "ff": {
+      "packages": [
+        {
+          "label": "200 FF LIKE- প্রতিদিন ১ আইডিতে ১বার",
+          "name": "200 FF LIKE",
+          "price": 30
+        },
+        {
+          "label": "1000 FF LIKE - 5 দিন এ পাবেন",
+          "name": "1000 FF LIKE",
+          "price": 100
+        },
+        {
+          "label": "2000 FF LIKE - 10 দিন এ পাবেন",
+          "name": "2000 FF LIKE",
+          "price": 200
+        },
+        {
+          "label": "3000 FF LIKE - 15 দিন এ পাবেন",
+          "name": "3000 FF LIKE",
+          "price": 300
+        },
+        {
+          "label": "4000 FF LIKE - 20 দিন এ পাবেন",
+          "name": "4000 FF LIKE",
+          "price": 400
+        },
+        {
+          "label": "5000 FF LIKE -25 দিন এ পাবেন",
+          "name": "5000 FF LIKE",
+          "price": 500
+        },
+        {
+          "label": "6000 FF LIKE - 30 দিন এ পাবেন",
+          "name": "6000 FF LIKE",
+          "price": 600
+        },
+        {
+          "label": "12000 FF LIKE - 60 দিন এ পাবেন",
+          "name": "12000 FF LIKE",
+          "price": 1200
+        },
+        {
+          "label": "24000 FF LIKE - 120 দিন এ পাবেন",
+          "name": "24000 FF LIKE",
+          "price": 2400
+        },
+        {
+          "label": "48,000 FF LIKE - 240 দিন এ পাবেন",
+          "name": "48,000 FF LIKE",
+          "price": 4800
+        }
+      ]
+    },
     "uid": {
       "packages": [
         {
@@ -96,57 +150,77 @@
         }
       ]
     },
-    "ff": {
+    "wm": {
       "packages": [
         {
-          "label": "200 FF LIKE- প্রতিদিন ১ আইডিতে ১বার",
-          "name": "200 FF LIKE",
-          "price": 30
+          "label": "Weekly🎭",
+          "name": "Weekly🎭",
+          "price": 158
         },
         {
-          "label": "1000 FF LIKE - 5 দিন এ পাবেন",
-          "name": "1000 FF LIKE",
-          "price": 100
+          "label": "2X Weekly🤫",
+          "name": "2X Weekly🤫",
+          "price": 312
         },
         {
-          "label": "2000 FF LIKE - 10 দিন এ পাবেন",
-          "name": "2000 FF LIKE",
-          "price": 200
+          "label": "3X Weekly🤫",
+          "name": "3X Weekly🤫",
+          "price": 466
         },
         {
-          "label": "3000 FF LIKE - 15 দিন এ পাবেন",
-          "name": "3000 FF LIKE",
-          "price": 300
+          "label": "5X Weekly🤫",
+          "name": "5X Weekly🤫",
+          "price": 777
         },
         {
-          "label": "4000 FF LIKE - 20 দিন এ পাবেন",
-          "name": "4000 FF LIKE",
-          "price": 400
+          "label": "10x Weekly🤫",
+          "name": "10x Weekly🤫",
+          "price": 1552
         },
         {
-          "label": "5000 FF LIKE -25 দিন এ পাবেন",
-          "name": "5000 FF LIKE",
-          "price": 500
+          "label": "Monthly🤠",
+          "name": "Monthly🤠",
+          "price": 766
         },
         {
-          "label": "6000 FF LIKE - 30 দিন এ পাবেন",
-          "name": "6000 FF LIKE",
-          "price": 600
+          "label": "2X Monthly🔥",
+          "name": "2X Monthly🔥",
+          "price": 1542
         },
         {
-          "label": "12000 FF LIKE - 60 দিন এ পাবেন",
-          "name": "12000 FF LIKE",
-          "price": 1200
+          "label": "3x Monthly🔥",
+          "name": "3x Monthly🔥",
+          "price": 2296
         },
         {
-          "label": "24000 FF LIKE - 120 দিন এ পাবেন",
-          "name": "24000 FF LIKE",
-          "price": 2400
+          "label": "4X Monthly🔥",
+          "name": "4X Monthly🔥",
+          "price": 3062
         },
         {
-          "label": "48,000 FF LIKE - 240 দিন এ পাবেন",
-          "name": "48,000 FF LIKE",
-          "price": 4800
+          "label": "5X Monthly🔥",
+          "name": "5X Monthly🔥",
+          "price": 3826
+        },
+        {
+          "label": "1Weekly + 1Monthly💀",
+          "name": "1Weekly + 1Monthly💀",
+          "price": 932
+        },
+        {
+          "label": "4Weekly + 1Monthly☠️",
+          "name": "4Weekly + 1Monthly☠️",
+          "price": 1396
+        },
+        {
+          "label": "5x Weekly + 1x Monthly💥",
+          "name": "5x Weekly + 1x Monthly💥",
+          "price": 1542
+        },
+        {
+          "label": "10x Weekly + 2x Monthly🗿",
+          "name": "10x Weekly + 2x Monthly🗿",
+          "price": 3082
         }
       ]
     }
